@@ -1,0 +1,603 @@
+[
+  {
+    "id": "Q01",
+    "mode": "professional",
+    "answerable": true,
+    "question": "At what age should bottle feeding be discontinued to prevent early childhood caries?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      7,
+      26
+    ],
+    "evidence": "Bottle feeding among infants should be discontinued after 12"
+  },
+  {
+    "id": "Q02",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What fluoride toothpaste concentration is recommended for preventing early childhood caries?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      42
+    ],
+    "evidence": "1000 ppm for standard use"
+  },
+  {
+    "id": "Q03",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Which non-invasive treatments may be used to control caries progression in primary teeth?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      9,
+      57
+    ],
+    "evidence": "silver diamine fluoride may be used to control caries progression"
+  },
+  {
+    "id": "Q04",
+    "mode": "professional",
+    "answerable": true,
+    "question": "When may the Hall Technique be considered for primary molars?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      10,
+      70
+    ],
+    "evidence": "Hall Technique may be considered for advanced proximal caries in primary molars"
+  },
+  {
+    "id": "Q05",
+    "mode": "professional",
+    "answerable": true,
+    "question": "When should a child with early childhood caries be referred to a paediatric dental specialist?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      81
+    ],
+    "evidence": "Consideration for referral of an ECC case to paediatric dental specialist"
+  },
+  {
+    "id": "Q06",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What fluoride concentration does silver diamine fluoride contain?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      55
+    ],
+    "evidence": "38% \\(44,?800 ppm\\)"
+  },
+  {
+    "id": "Q07",
+    "mode": "patient",
+    "answerable": true,
+    "question": "How long should I breastfeed my baby to help protect their teeth?",
+    "expected_file": "CPG_Management_of_Early_Childhood_Caries__3rd_Edition__2024.pdf",
+    "expected_pages": [
+      7,
+      26
+    ],
+    "evidence": "Breastfeeding among infants should be encouraged up to two years"
+  },
+  {
+    "id": "Q08",
+    "mode": "patient",
+    "answerable": true,
+    "question": "How often should I check my child's teeth using the Lift the Lip technique?",
+    "expected_file": "Guidelines_Early_Childhood_Oral_Healthcare_2008.pdf",
+    "expected_pages": [
+      21,
+      22
+    ],
+    "evidence": "at least once a month|performed once a month"
+  },
+  {
+    "id": "Q09",
+    "mode": "patient",
+    "answerable": true,
+    "question": "By what age should my baby have a first dental check-up?",
+    "expected_file": "Guidelines_Early_Childhood_Oral_Healthcare_2008.pdf",
+    "expected_pages": [
+      10
+    ],
+    "evidence": "first dental visit by one year of age|check-?up by 1 year of age|before age of 12 months"
+  },
+  {
+    "id": "Q10",
+    "mode": "patient",
+    "answerable": true,
+    "question": "How much toothpaste should I use for my toddler aged 1 to 4 years?",
+    "expected_file": "Guidelines_Early_Childhood_Oral_Healthcare_2008.pdf",
+    "expected_pages": [
+      20
+    ],
+    "evidence": "smear\\s*/\\s*pea-"
+  },
+  {
+    "id": "Q11",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What are the early signs of early childhood caries to look for in toddlers?",
+    "expected_file": "Guidelines_Early_Childhood_Oral_Healthcare_2008.pdf",
+    "expected_pages": [
+      21,
+      22
+    ],
+    "evidence": "White or brown|white spots/ lines/ patches"
+  },
+  {
+    "id": "Q12",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Can a mother pass tooth decay bacteria to her baby?",
+    "expected_file": "Guidelines_Early_Childhood_Oral_Healthcare_2008.pdf",
+    "expected_pages": [
+      18
+    ],
+    "evidence": "Bacteria that cause"
+  },
+  {
+    "id": "Q13",
+    "mode": "patient",
+    "answerable": true,
+    "question": "What oral health messages should pregnant women be given?",
+    "expected_file": "Oral_Healthcare_for_Pregnant_Mother_in_Malaysia_2004.pdf",
+    "expected_pages": [
+      10
+    ],
+    "evidence": "Brush your teeth with fluoridated toothpaste"
+  },
+  {
+    "id": "Q14",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What percentage of antenatal mothers used dental clinics in 2003?",
+    "expected_file": "Oral_Healthcare_for_Pregnant_Mother_in_Malaysia_2004.pdf",
+    "expected_pages": [
+      5
+    ],
+    "evidence": "2003 493,024 75,129 15\\.2"
+  },
+  {
+    "id": "Q15",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Why do many pregnant women not visit the dentist?",
+    "expected_file": "Oral_Healthcare_for_Pregnant_Mother_in_Malaysia_2004.pdf",
+    "expected_pages": [
+      7
+    ],
+    "evidence": "did not have any dental problems"
+  },
+  {
+    "id": "Q16",
+    "mode": "professional",
+    "answerable": true,
+    "question": "How common is gingivitis among antenatal mothers?",
+    "expected_file": "Oral_Healthcare_for_Pregnant_Mother_in_Malaysia_2004.pdf",
+    "expected_pages": [
+      7
+    ],
+    "evidence": "Gingivitis is also highly prevalent among antenatal mothers"
+  },
+  {
+    "id": "Q17",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What are the specific objectives of the oral healthcare programme for antenatal mothers?",
+    "expected_file": "Oral_Healthcare_for_Pregnant_Mother_in_Malaysia_2004.pdf",
+    "expected_pages": [
+      8
+    ],
+    "evidence": "To empower mothers towards self-care"
+  },
+  {
+    "id": "Q18",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What age range does Malaysia define as young adults?",
+    "expected_file": "Oral_Healthcare_For_Young_Adults_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      8
+    ],
+    "evidence": "age range of 15-29 years old"
+  },
+  {
+    "id": "Q19",
+    "mode": "patient",
+    "answerable": true,
+    "question": "What causes tooth wear in young people?",
+    "expected_file": "Oral_Healthcare_For_Young_Adults_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "Tooth wear is a non-carious loss of tooth tissue"
+  },
+  {
+    "id": "Q20",
+    "mode": "professional",
+    "answerable": true,
+    "question": "How common were periodontal conditions among young adults in NOHSA 2010?",
+    "expected_file": "Oral_Healthcare_For_Young_Adults_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      10
+    ],
+    "evidence": "90\\.4%, 95\\.2% and 97\\.1%"
+  },
+  {
+    "id": "Q21",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Why should people who play sports wear a mouth guard?",
+    "expected_file": "Oral_Healthcare_For_Young_Adults_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "mouth guard can prevent orofacial injuries"
+  },
+  {
+    "id": "Q22",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What fluoride concentration should the varnish used in the toddler programme contain?",
+    "expected_file": "FLUORIDE_VARNISH_PROGRAMME_FOR_TODDLERS_2019.pdf",
+    "expected_pages": [
+      21
+    ],
+    "evidence": "Fluoride varnish containing 22,600 ppm fluoride"
+  },
+  {
+    "id": "Q23",
+    "mode": "professional",
+    "answerable": true,
+    "question": "How often should fluoride varnish be reapplied?",
+    "expected_file": "FLUORIDE_VARNISH_PROGRAMME_FOR_TODDLERS_2019.pdf",
+    "expected_pages": [
+      16
+    ],
+    "evidence": "every 6 months for at least 2 years"
+  },
+  {
+    "id": "Q24",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What are the contraindications for fluoride varnish application?",
+    "expected_file": "FLUORIDE_VARNISH_PROGRAMME_FOR_TODDLERS_2019.pdf",
+    "expected_pages": [
+      31
+    ],
+    "evidence": "contraindicated in patients with ulcerative gingivitis or stomatitis"
+  },
+  {
+    "id": "Q25",
+    "mode": "patient",
+    "answerable": true,
+    "question": "What should parents do after their child has had fluoride varnish applied?",
+    "expected_file": "FLUORIDE_VARNISH_PROGRAMME_FOR_TODDLERS_2019.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "should not brush his/her teeth for the rest of the day"
+  },
+  {
+    "id": "Q26",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Which children should be selected for fissure sealant application in the school programme?",
+    "expected_file": "Guidelines_A_School_Based_Fissure_Sealant_Programme_2003.pdf",
+    "expected_pages": [
+      12
+    ],
+    "evidence": "Children with dft.{0,3}3 in the mixed dentition"
+  },
+  {
+    "id": "Q27",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Which teeth are most often affected by cavities in schoolchildren?",
+    "expected_file": "Guidelines_A_School_Based_Fissure_Sealant_Programme_2003.pdf",
+    "expected_pages": [
+      7
+    ],
+    "evidence": "first permanent molars being twice more affected"
+  },
+  {
+    "id": "Q28",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What sodium fluoride solution and rinsing frequency are used in school-based fluoride mouth rinsing?",
+    "expected_file": "School_Based_Fluoride_Mouth_Rinsing_Programme_2023.pdf",
+    "expected_pages": [
+      9
+    ],
+    "evidence": "weekly rinse regime using 0\\.2% sodium fluoride"
+  },
+  {
+    "id": "Q29",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Which children should be excluded from the fluoride mouth rinsing programme?",
+    "expected_file": "School_Based_Fluoride_Mouth_Rinsing_Programme_2023.pdf",
+    "expected_pages": [
+      10
+    ],
+    "evidence": "renal disease and fluorosis shall be excluded"
+  },
+  {
+    "id": "Q30",
+    "mode": "professional",
+    "answerable": true,
+    "question": "How much fluoride solution does each child receive and how long do they rinse?",
+    "expected_file": "School_Based_Fluoride_Mouth_Rinsing_Programme_2023.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "10ml \\(or 5-7ml"
+  },
+  {
+    "id": "Q31",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Is fluoride mouth rinse safe for children under 6 years old?",
+    "expected_file": "School_Based_Fluoride_Mouth_Rinsing_Programme_2023.pdf",
+    "expected_pages": [
+      32
+    ],
+    "evidence": "contraindicated in children below 6"
+  },
+  {
+    "id": "Q32",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What antibiotic regimen is given for periodontal abscess in patients who are not allergic to penicillin?",
+    "expected_file": "CPG_Management_of_Periodontal_Abscess__2nd_Edition__2017.pdf",
+    "expected_pages": [
+      38
+    ],
+    "evidence": "Not allergic to Penicillin"
+  },
+  {
+    "id": "Q33",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Is mechanical debridement alone effective for treating a periodontal abscess?",
+    "expected_file": "CPG_Management_of_Periodontal_Abscess__2nd_Edition__2017.pdf",
+    "expected_pages": [
+      11,
+      28
+    ],
+    "evidence": "without antibiotics is usually effective"
+  },
+  {
+    "id": "Q34",
+    "mode": "professional",
+    "answerable": true,
+    "question": "When should a periodontal abscess case be referred to a periodontist?",
+    "expected_file": "CPG_Management_of_Periodontal_Abscess__2nd_Edition__2017.pdf",
+    "expected_pages": [
+      30
+    ],
+    "evidence": "Refer to periodontist for appropriate non-surgical"
+  },
+  {
+    "id": "Q35",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Which antibiotic should pregnant patients not take for a gum abscess?",
+    "expected_file": "CPG_Management_of_Periodontal_Abscess__2nd_Edition__2017.pdf",
+    "expected_pages": [
+      38
+    ],
+    "evidence": "Contraindicated for"
+  },
+  {
+    "id": "Q36",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What recall intervals are used for children after caries risk assessment?",
+    "expected_file": "CLINICAL_PREVENTION_PROGRAMME_FOR_CARIES_2020.pdf",
+    "expected_pages": [
+      18
+    ],
+    "evidence": "Recall visits are determined by clinical operators at 3, 6 or 12 months"
+  },
+  {
+    "id": "Q37",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What fluoride varnish concentration and interval are used when moisture control for fissure sealants cannot be achieved?",
+    "expected_file": "CLINICAL_PREVENTION_PROGRAMME_FOR_CARIES_2020.pdf",
+    "expected_pages": [
+      20
+    ],
+    "evidence": "22,600 ppm Fluoride should be applied to pits and fissures at intervals of 3-6 months"
+  },
+  {
+    "id": "Q38",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Why does the CPPC guideline use the Modified MOH ICDAS and Caries Risk Assessment?",
+    "expected_file": "CLINICAL_PREVENTION_PROGRAMME_FOR_CARIES_2020.pdf",
+    "expected_pages": [
+      2
+    ],
+    "evidence": "Modified MOH ICDAS and Caries Risk Assessment to manage early caries lesions"
+  },
+  {
+    "id": "Q39",
+    "mode": "patient",
+    "answerable": true,
+    "question": "What does every child receive at a school dental visit regardless of caries risk?",
+    "expected_file": "CLINICAL_PREVENTION_PROGRAMME_FOR_CARIES_2020.pdf",
+    "expected_pages": [
+      18
+    ],
+    "evidence": "All children regardless of risk profile shall be given brief dental health education"
+  },
+  {
+    "id": "Q40",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What are the main risk habits for oral cancer in the Malaysian population?",
+    "expected_file": "Primary_Prevention_and_Early_Detection_of_Oral_Potentially_Malignant_Disorders_and_Oral_Cancers_2018.pdf",
+    "expected_pages": [
+      3,
+      12
+    ],
+    "evidence": "betel quid chewing and alcohol consumption are the main risk habits"
+  },
+  {
+    "id": "Q41",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Which habits increase risk of mouth cancer?",
+    "expected_file": "Primary_Prevention_and_Early_Detection_of_Oral_Potentially_Malignant_Disorders_and_Oral_Cancers_2018.pdf",
+    "expected_pages": [
+      14
+    ],
+    "evidence": "tobacco smoking, quid chewing and alcohol consumption are the three main risk habits"
+  },
+  {
+    "id": "Q42",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What proportion of oral cancer cases were detected at stage 1 between 2003 and 2015?",
+    "expected_file": "Primary_Prevention_and_Early_Detection_of_Oral_Potentially_Malignant_Disorders_and_Oral_Cancers_2018.pdf",
+    "expected_pages": [
+      12
+    ],
+    "evidence": "20\\.5% \\(24 of 117 cases\\)"
+  },
+  {
+    "id": "Q43",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Why do older people often have a dry mouth?",
+    "expected_file": "Oral_Healthcare_for_Elderly_in_Malaysia_2002.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "Older individuals frequently suffer from xerostomia"
+  },
+  {
+    "id": "Q44",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What increases the risk of root caries in the elderly?",
+    "expected_file": "Oral_Healthcare_for_Elderly_in_Malaysia_2002.pdf",
+    "expected_pages": [
+      13
+    ],
+    "evidence": "prevalence of gingival recession increases and this will increase the risk of developing root caries"
+  },
+  {
+    "id": "Q45",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What ages are commonly used to define the elderly in oral healthcare?",
+    "expected_file": "Oral_Healthcare_for_Elderly_in_Malaysia_2002.pdf",
+    "expected_pages": [
+      7
+    ],
+    "evidence": "ages of 60 and 65 years have been commonly adopted"
+  },
+  {
+    "id": "Q46",
+    "mode": "patient",
+    "answerable": true,
+    "question": "Should elderly people who have no natural teeth still be checked for mouth cancer?",
+    "expected_file": "Oral_Healthcare_for_Elderly_in_Malaysia_2002.pdf",
+    "expected_pages": [
+      16
+    ],
+    "evidence": "annual examination to screen for oral pre-cancer and cancer lesions will benefit even the edentulous elderly"
+  },
+  {
+    "id": "Q47",
+    "mode": "professional",
+    "answerable": true,
+    "question": "Which age group does the preschool oral healthcare programme cover?",
+    "expected_file": "Oral_Healthcare_for_PreSchool_Children_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      11
+    ],
+    "evidence": "preschool children aged 5-6 year old attending kindergartens and preschools"
+  },
+  {
+    "id": "Q48",
+    "mode": "professional",
+    "answerable": true,
+    "question": "What is the National Oral Health Plan target for caries-free 5-year-olds by 2020?",
+    "expected_file": "Oral_Healthcare_for_PreSchool_Children_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      8
+    ],
+    "evidence": "50\\.0 ?% caries free among 5 year-old by 2020"
+  },
+  {
+    "id": "Q49",
+    "mode": "patient",
+    "answerable": true,
+    "question": "What do dental teams do when they visit kindergartens?",
+    "expected_file": "Oral_Healthcare_for_PreSchool_Children_in_Malaysia_2019.pdf",
+    "expected_pages": [
+      8
+    ],
+    "evidence": "tooth brushing drills, role play and puppet show"
+  },
+  {
+    "id": "N01",
+    "mode": "patient",
+    "answerable": false,
+    "question": "How much does a dental implant cost?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  },
+  {
+    "id": "N02",
+    "mode": "professional",
+    "answerable": false,
+    "question": "How is peri-implantitis treated?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  },
+  {
+    "id": "N03",
+    "mode": "patient",
+    "answerable": false,
+    "question": "Is it safe to have dental X-rays during pregnancy?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  },
+  {
+    "id": "N04",
+    "mode": "professional",
+    "answerable": false,
+    "question": "What is the amoxicillin dose for a child with a gum abscess?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  },
+  {
+    "id": "N05",
+    "mode": "patient",
+    "answerable": false,
+    "question": "Can I get my teeth whitened at a government dental clinic?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  },
+  {
+    "id": "N06",
+    "mode": "patient",
+    "answerable": false,
+    "question": "When should wisdom teeth be removed?",
+    "expected_file": null,
+    "expected_pages": [],
+    "evidence": null
+  }
+]
